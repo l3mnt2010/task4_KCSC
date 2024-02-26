@@ -1,0 +1,4 @@
+- Khai thác XXE Injection để lấy dữ liệu tập tin (FILE DISCLOSURE)
+- Khai thác XXE Injection để thực hiện tấn công SSRF(Server-side request forgery)
+- Tấn công DENIAL OF SERVICE (một số trường hợp)
+- Thực hiện Access Control Bypass hoặc có thể kết hợp với lỗi khác để RCE…

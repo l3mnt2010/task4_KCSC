@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+       
+        <title>Exploiting XXE using external entities to retrieve files</title>
+    </head>
+    <body>
+
+                        <form id="checkForm" action="process.php" method="POST">
+                            <input required type="hidden" name="productId" value="1">
+                            <select name="storeId">
+                                <option value="1" >London</option>
+                                <option value="2" >Paris</option>
+                                <option value="3" >Milan</option>
+                            </select>
+                            <button type="submit" class="button">Check stock</button>
+                        </form>
+                        <span id="loginResult"></span>
+                        <script src="./api.js"></script>
+                        
+    </body>
+</html>
