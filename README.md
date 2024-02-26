@@ -10,8 +10,8 @@ Câu 3:
 + Lab : https://github.com/l3mnt2010/task4_KCSC/tree/main/wrapperLab
 
 Câu 4:
-
-+ https://github.com/l3mnt2010/task4_KCSC/tree/main/chainFI/filterChain
++ https://github.com/l3mnt2010/task4_KCSC/blob/main/chainFI/filterChain/T%C3%ACm%20hi%E1%BB%83u.md
++ Khai thác: https://github.com/l3mnt2010/task4_KCSC/tree/main/chainFI/filterChain
 
 Câu 5:
 + https://github.com/l3mnt2010/task4_KCSC/blob/main/XXE%20Injection/Kh%C3%A1i%20ni%E1%BB%87m.md
@@ -28,3 +28,4 @@ Câu 7:
 + https://github.com/l3mnt2010/task4_KCSC/blob/main/XXE%20Injection/CDATA.md
 
 
+arbitary file read và LFI : https://github.com/l3mnt2010/task4_KCSC/blob/main/Ph%C3%A2n%20bi%E1%BB%87t%20lfi%20v%C3%A0%20arbitary%20file%20read.md
